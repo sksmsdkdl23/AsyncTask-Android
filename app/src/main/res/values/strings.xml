@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="device_request">My Device</string>
+    <string name="action_share">Share</string>
+    <string name="action_mydevice">MyDevice</string>
+
+    <string name="manufacturer">Manufacturer: </string>
+    <string name="model">Model: </string>
+    <string name="version">Version: </string>
+    <string name="version_release">Version Release: </string>
+    <string name="serial_number">Serial Number: </string>
+
+</resources>
